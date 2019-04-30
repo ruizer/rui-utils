@@ -1,6 +1,6 @@
 {
   "name": "rui-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "我自己的前端业务代码工具库",
   "main": "lib/rui-utils.min.js",
   "scripts": {
