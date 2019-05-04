@@ -35,14 +35,6 @@ const rutils = require('rui-utils')
 const thousand = rutils.thousandBitSeparator(20190430)
 ```
 
-**推荐使用方法**  
-
-你真的不需要完整引入所有函数，所以只引入需要使用的方法即可。
-``` javascript
-// 只引入部分方法('rutils/<方法名>')
-const getOS = require('rutils/getOS')
-const OS = getOS()
-```
 ## API文档
 
 ### array
